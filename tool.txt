@@ -1,0 +1,6 @@
+Linux: is open source
+SDLC: software Development Life Cycle is Good
+scripting: is authomation
+AWS:is a cloud computing provider
+GitHub: collaborative tool ; it is a distributed version control system
+Ec2: is a server in the cloud
